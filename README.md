@@ -7,8 +7,6 @@ I've implemented Linear Regression from scratch using make_regression from sciki
 ## Objectives
 
 - Understand the concept and mathematics behind linear regression
-- Implement simple and multiple linear regression models
-- Evaluate performance using regression metrics
 - Visualize regression lines and residuals
 
 ---
